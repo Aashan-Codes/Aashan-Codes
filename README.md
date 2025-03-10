@@ -27,6 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashan-codes&show_icons=true&locale=en&theme=dark" alt="aashan-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashan-codes" alt="aashan-codes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashan-codes&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="aashan-codes" /></p>
+
 
 
